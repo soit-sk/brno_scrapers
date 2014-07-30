@@ -60,5 +60,5 @@ https://classic.scraperwiki.com/scrapers/brno_councillors_meetings/,Brno Council
 https://classic.scraperwiki.com/scrapers/average_daily_water_consumption_in_brno_in_liters_/,Average daily water consumption in Brno,0,0
 https://classic.scraperwiki.com/scrapers/subsidized_organizations_of_brno_city/,Subsidized organizations of Brno city,2,2
 https://classic.scraperwiki.com/scrapers/firebrno/,firebrno,2,2
-https://morph.io/soit-sk/brno_average_daily_water_consumption_in_liters,1,1
-https://morph.io/soit-sk/brno_sever_uredni_deska,1,1
+https://morph.io/soit-sk/brno_average_daily_water_consumption_in_liters,Average daily water consumption in Brno,1,1
+https://morph.io/soit-sk/brno_sever_uredni_deska,Brno-Sever - Úřední deska,1,1
