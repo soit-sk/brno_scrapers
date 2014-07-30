@@ -61,3 +61,4 @@ https://classic.scraperwiki.com/scrapers/average_daily_water_consumption_in_brno
 https://classic.scraperwiki.com/scrapers/subsidized_organizations_of_brno_city/,Subsidized organizations of Brno city,2,2
 https://classic.scraperwiki.com/scrapers/firebrno/,firebrno,2,2
 https://morph.io/soit-sk/brno_average_daily_water_consumption_in_liters,1,1
+https://morph.io/soit-sk/brno_sever_uredni_deska,1,1
