@@ -7,3 +7,4 @@ Legend:
 * URL
 * Title
 * Active (2 - Unknown, 1 - Active, 0 - Not active)
+* Functionality (2 - Unknown, 1 - Failed, 0 - Functional)
