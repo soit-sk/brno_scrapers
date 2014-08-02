@@ -65,3 +65,4 @@ https://morph.io/soit-sk/brno_sever_uredni_deska,Brno-Sever - Úřední deska,1,
 https://morph.io/soit-sk/brno_subsidized_organizations_of_brno_city,Příspěvkové organizace, jejichž zřizovatelem je statutární město Brno a obchodní společnosti s majoritní majetkovou účastí statutárního města Brna,1,1
 https://morph.io/soit-sk/brno_sever_departments,Brno-Sever - Odbory,1,1
 https://morph.io/soit-sk/firebrno,Hasičský záchranný sbor Jihomoravského kraje - Seznam událostí,1,1
+https://morph.io/soit-sk/firebrno_shortcuts,Hasičský záchranný sbor Jihomoravského kraje - Používané zkratky,1,1
