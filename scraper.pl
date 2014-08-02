@@ -53,7 +53,7 @@ __DATA__
 https://classic.scraperwiki.com/scrapers/brno_councillors_retrieval/,Brno Councillors Retrieval,2,2
 https://classic.scraperwiki.com/scrapers/subsidized_organizations_of_brno_city_1/,Subsidized organizations of Brno city,2,2
 https://classic.scraperwiki.com/scrapers/brno_councillors_downloader/,Brno Councillors Downloader,2,2
-https://classic.scraperwiki.com/scrapers/harmonogram_svozu_z_jednotlivych_ulic_-_odpadky_br/,Harmonogram svozu z jednotlivých ulic - odpadky brno,2,2
+https://classic.scraperwiki.com/scrapers/harmonogram_svozu_z_jednotlivych_ulic_-_odpadky_br/,Harmonogram svozu z jednotlivých ulic - odpadky brno,0,0
 https://classic.scraperwiki.com/scrapers/brno_councillors_votes_renaming/,Brno Councillors Votes Renaming,2,2
 https://classic.scraperwiki.com/scrapers/brno_councillors_minutes/,Brno Councillors Minutes,2,2
 https://classic.scraperwiki.com/scrapers/brno_councillors_meetings/,Brno Councillors Meetings,2,2
