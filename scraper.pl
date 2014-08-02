@@ -58,8 +58,8 @@ https://classic.scraperwiki.com/scrapers/brno_councillors_votes_renaming/,Brno C
 https://classic.scraperwiki.com/scrapers/brno_councillors_minutes/,Brno Councillors Minutes,2,2
 https://classic.scraperwiki.com/scrapers/brno_councillors_meetings/,Brno Councillors Meetings,2,2
 https://classic.scraperwiki.com/scrapers/average_daily_water_consumption_in_brno_in_liters_/,Average daily water consumption in Brno,0,0
-https://classic.scraperwiki.com/scrapers/subsidized_organizations_of_brno_city/,Subsidized organizations of Brno city,2,2
-https://classic.scraperwiki.com/scrapers/firebrno/,firebrno,2,2
+https://classic.scraperwiki.com/scrapers/subsidized_organizations_of_brno_city/,Subsidized organizations of Brno city,0,0
+https://classic.scraperwiki.com/scrapers/firebrno/,firebrno,0,0
 https://morph.io/soit-sk/brno_average_daily_water_consumption_in_liters,Average daily water consumption in Brno,1,1
 https://morph.io/soit-sk/brno_sever_uredni_deska,Brno-Sever - Úřední deska,1,1
 https://morph.io/soit-sk/brno_subsidized_organizations_of_brno_city,Příspěvkové organizace, jejichž zřizovatelem je statutární město Brno a obchodní společnosti s majoritní majetkovou účastí statutárního města Brna,1,1
