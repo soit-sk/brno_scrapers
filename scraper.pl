@@ -66,3 +66,4 @@ https://morph.io/soit-sk/brno_subsidized_organizations_of_brno_city,Příspěvko
 https://morph.io/soit-sk/brno_sever_departments,Brno-Sever - Odbory,1,1
 https://morph.io/soit-sk/firebrno,Hasičský záchranný sbor Jihomoravského kraje - Seznam událostí,1,1
 https://morph.io/soit-sk/firebrno_shortcuts,Hasičský záchranný sbor Jihomoravského kraje - Používané zkratky,1,1
+https://morph.io/soit-sk/brno_sever_law_106,Brno-Sever - Poskytované informace ze zákona č. 106/1999 Sb.,1,1
