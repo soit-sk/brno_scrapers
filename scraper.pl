@@ -11,7 +11,7 @@ use English;
 use Text::CSV;
 
 # Version.
-our $VERSION = 0.01;
+our $VERSION = 0.02;
 
 # Open a database handle.
 my $dt = Database::DumpTruck->new({
