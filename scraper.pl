@@ -10,6 +10,9 @@ use Database::DumpTruck;
 use English;
 use Text::CSV;
 
+# Version.
+our $VERSION = 0.01;
+
 # Open a database handle.
 my $dt = Database::DumpTruck->new({
 	'dbname' => 'data.sqlite',
